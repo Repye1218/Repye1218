@@ -1,4 +1,4 @@
-# 😁 KANG TAE MIN
+# 💻 KANG TAE MIN
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=repi1218)](https://solved.ac/repi1218/)
 
